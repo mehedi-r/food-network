@@ -6,6 +6,11 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 120px;
+}
+h1{
+    color: #575757;
+    font-size: 60px;
 }
 .half-width{
     width: 50%;
